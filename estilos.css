@@ -1,0 +1,86 @@
+
+
+.col {
+    background-color: rgb(8, 7, 88);
+    border: 1px solid rgb(166, 19, 115);
+    color: rgb(181, 21, 176);
+    font-family: monospace;
+    border-radius: 10px;
+    display: flex;
+    height: 40%;
+
+}
+
+.datos {
+    width: 100%;
+    height: 100%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+img {
+    width: 90%;
+    height: 90%;
+    background-color: rgb(17, 177, 205);
+    border-radius: 10px;
+    vertical-align: middle;
+    margin: 2%;
+    border: 1px solid rgb(65, 13, 207);
+    box-shadow: inset 0 0 10px #a90a6c;
+}
+
+.imagen {
+    width: 50%;
+    height: 100%;
+    background-color: #073a63;
+    border-radius: 10px;
+    border: 1px solid #14a89b;
+
+    box-shadow: inset 0 0 10px #000000;
+}
+
+.producto {
+    width: 80%;
+    height: 15%;
+    align-self: auto;
+    text-align: center;
+    color: rgb(117, 7, 75);
+    border: 1px solid #8E1616;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+    background-color: #1D1616;
+
+    box-shadow: inset 0 0 10px #0d1f88;
+}
+
+.descripcion {
+    width: 80%;
+    height: 85%;
+    vertical-align: middle;
+    border: 1px solid #8E1616;
+    border-radius: 10px;
+    background-color: #14a89b;
+    color: rgb(117, 7, 75);
+    padding: 10px;
+
+    box-shadow: inset 0 0 10px #d2097e;
+}
+
+.col-md-4 {
+    border: 2px dotted red;
+    display: flex;
+}
+
+
+
+#etiqueta1 {
+    color: blue;
+    width: 100%
+}
+
+
+#logo{
+    color: #0d1f88;
+}
